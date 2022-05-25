@@ -18,10 +18,10 @@
     <ClCompile Include="..\lecturaShader.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\librerias\glad y includes\glad\glad.c">
+    <ClCompile Include="..\laberinto.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-    <ClCompile Include="..\laberinto.cpp">
+    <ClCompile Include="..\glad.c">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>

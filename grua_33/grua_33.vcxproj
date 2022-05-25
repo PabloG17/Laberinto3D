@@ -146,7 +146,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\librerias\glad y includes\glad\glad.c" />
+    <ClCompile Include="..\glad.c" />
     <ClCompile Include="..\lecturaShader.cpp" />
     <ClCompile Include="..\laberinto.cpp" />
   </ItemGroup>
