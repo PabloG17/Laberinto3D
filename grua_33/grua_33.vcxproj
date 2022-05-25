@@ -148,7 +148,7 @@
   <ItemGroup>
     <ClCompile Include="..\..\librerias\glad y includes\glad\glad.c" />
     <ClCompile Include="..\lecturaShader.cpp" />
-    <ClCompile Include="..\grua.cpp" />
+    <ClCompile Include="..\laberinto.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\esfera.h" />
