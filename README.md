@@ -5,7 +5,7 @@ O plano móvese mediante o uso do rato, pulsando o botón dereito e desprazándo
 Se se cae nun buraco o xogo reiníciase, se se chega a meta sae a pantalla de victoria.
 
 
-#Construción
+Construción:
 
 O xogo foi construído en OpenGL 3.3
 
